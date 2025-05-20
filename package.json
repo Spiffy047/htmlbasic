@@ -1,0 +1,20 @@
+{
+  "name": "htmlbasic",
+  "version": "1.0.0",
+  "main": "index.js",
+ "scripts": {
+  "test": "echo \"No automated tests configured yet.\""
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spiffy047/htmlbasic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spiffy047/htmlbasic/issues"
+  },
+  "homepage": "https://github.com/Spiffy047/htmlbasic#readme",
+  "description": ""
+}
